@@ -1,2 +1,2 @@
-# design-patterns-java
-Design patterns java
+# Just learning 
+https://codewithmosh.com/p/design-patterns
